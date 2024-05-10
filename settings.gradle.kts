@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Eatsy"
 include(":app")
+include(":designsystem")
+include(":data")
+include(":domain")
